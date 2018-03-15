@@ -1,4 +1,4 @@
-# template
+# AWS API Gateway
 
 This is an organizational directory of APIs for Template.
 
