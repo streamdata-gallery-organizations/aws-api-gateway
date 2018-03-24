@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: aws-api-gateway.api.streamdata.gallery
+title: Streamdata Gallery AWS API Gateway
+url: aws-api-gateway.streamdata.gallery
 tag: AWS API Gateway
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: aws-api-gateway
 github_branch: master
 collections:
