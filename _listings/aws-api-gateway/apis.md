@@ -16,8 +16,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: ""
 tags: AWS API Gateway
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-api-gateway/master/_listings/aws-api-gateway/apis.md
 specificationVersion: "0.14"
 apis:
@@ -209,7 +209,7 @@ apis:
   tags: Domainname
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-api-gateway/master/_listings/aws-api-gateway/domainnamesmonapicom-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-api-gateway/master/_listings/aws-api-gateway/domainnamesmonapi-com-delete-openapi.md
 - name: AWS API Gateway API Get Domain Base Path
   x-api-slug: aws-api-gateway-api
   description: Gets the BasePathMappings resource representing the collection of base
@@ -220,9 +220,9 @@ apis:
   tags: Domain, Base, Path
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-api-gateway/master/_listings/aws-api-gateway/domainnamesabccombasepathmappings-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-api-gateway/master/_listings/aws-api-gateway/domainnamesa-b-c-combasepathmappings-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-api-gateway/master/_listings/aws-api-gateway/domainnamesabccombasepathmappings-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-api-gateway/master/_listings/aws-api-gateway/domainnamesa-b-c-combasepathmappings-get-openapi.md
 - name: AWS API Gateway API Integrationresponse Update
   x-api-slug: aws-api-gateway-api
   description: Changes information about an integration response.
